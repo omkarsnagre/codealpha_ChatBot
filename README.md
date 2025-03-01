@@ -29,5 +29,6 @@ git clone https://github.com/omkarsnagre/ChatBot.git
 
 ## 📩 Contact
 💻 Developed by **Omkar Nagre**
+
 📧 Email: [omkarnagre777@gmail.com](mailto:omkarnagre777@gmail.com)  
 🔗 GitHub: [Github.com](https://github.com/omkarsnagre)  
